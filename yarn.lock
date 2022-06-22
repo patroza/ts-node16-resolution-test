@@ -19,6 +19,6 @@
   resolved "https://registry.yarnpkg.com/@tsconfig/strictest/-/strictest-1.0.1.tgz#04149befb12c1eb6db521b6d14dadf71121d6fb2"
   integrity sha512-7O8Q537UQdTZSKEV0f5WRLRFtfL9B8agGqIZrCOwOiWvbjZWPP2rAoZ7LHcwjdG4vnjdleHMEE+ZetM+lhRkcA==
 
-"typescript@https://cdn.jsdelivr.net/npm/@tsplus/installer@0.0.108/compiler/typescript.tgz":
-  version "4.8.0-tsplus.20220527"
-  resolved "https://cdn.jsdelivr.net/npm/@tsplus/installer@0.0.108/compiler/typescript.tgz#17bd18e344f2fe4effb94f8651fb280fb3cbde2e"
+"typescript@https://cdn.jsdelivr.net/npm/@tsplus/installer@0.0.117/compiler/typescript.tgz":
+  version "4.8.0-tsplus.20220621"
+  resolved "https://cdn.jsdelivr.net/npm/@tsplus/installer@0.0.117/compiler/typescript.tgz#45362f5105523d5800863473dbe73965a1dd49a9"

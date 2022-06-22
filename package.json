@@ -5,7 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "@effect-ts/core": "^0.60.1",
-    "typescript": "https://cdn.jsdelivr.net/npm/@tsplus/installer@0.0.108/compiler/typescript.tgz"
+    "typescript": "https://cdn.jsdelivr.net/npm/@tsplus/installer@0.0.117/compiler/typescript.tgz"
   },
   "devDependencies": {
     "@tsconfig/strictest": "^1.0.1"
