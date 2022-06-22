@@ -2,17 +2,17 @@
 # yarn lockfile v1
 
 
-"@effect-ts/core@^0.60.1":
-  version "0.60.1"
-  resolved "https://registry.yarnpkg.com/@effect-ts/core/-/core-0.60.1.tgz#7d0c7aeb51c6629ef6a44d55061376b09ae3e748"
-  integrity sha512-/+ErHwxif81C6YZd68RhlQwQRQSGKObrUG7C9GW2rOGnDucEoa/GKPovSfZskDrJAwswFxk0BTH1rP3oZCgncA==
+"@effect-ts/core@^0.60.2":
+  version "0.60.2"
+  resolved "https://registry.yarnpkg.com/@effect-ts/core/-/core-0.60.2.tgz#45ce0ac492cbd15bd7f4dd10e285ca942ad55930"
+  integrity sha512-Mug0vKz1dYF/9j9m40VNLFQFkcOP9rwoqBFjfa9QIxCPioP08TnB5JQgwd7bg4gSRFZ4yJJdNlQG0XjyalDK3w==
   dependencies:
-    "@effect-ts/system" "^0.57.1"
+    "@effect-ts/system" "^0.57.2"
 
-"@effect-ts/system@^0.57.1":
-  version "0.57.1"
-  resolved "https://registry.yarnpkg.com/@effect-ts/system/-/system-0.57.1.tgz#4c77523a4eb7f6e7e15f0205c04237301c5fe07f"
-  integrity sha512-AMc+h0VDQSvSUd3pPDFlqxTLDmQTBM3soPpnJU0PdKPU0g730Nd5xGlScMp/5g8NHcFUIMe2VGWJ7CQ1nGQrJg==
+"@effect-ts/system@^0.57.2":
+  version "0.57.2"
+  resolved "https://registry.yarnpkg.com/@effect-ts/system/-/system-0.57.2.tgz#ef0de8ddb8db8e96b675160fc1bf32048aad3cf9"
+  integrity sha512-B94ekNCY/O07LdUk/UH5Fkmu2Xi/gxQFXdN3lkSxEwiJUwyvCO6HdAdqqvLB+pp0nRa+cmNnlbjG60qb8Z+zlg==
 
 "@tsconfig/strictest@^1.0.1":
   version "1.0.1"
